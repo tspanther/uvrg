@@ -1,0 +1,15 @@
+C:\Users\Niko Uremović\source\repos\UVRGTriangulacija\UVRGTriangulacija\bin\Debug\UVRGTriangulacija.exe.config
+C:\Users\Niko Uremović\source\repos\UVRGTriangulacija\UVRGTriangulacija\bin\Debug\UVRGTriangulacija.exe
+C:\Users\Niko Uremović\source\repos\UVRGTriangulacija\UVRGTriangulacija\bin\Debug\UVRGTriangulacija.pdb
+C:\Users\Niko Uremović\source\repos\UVRGTriangulacija\UVRGTriangulacija\obj\Debug\UVRGTriangulacija.csprojAssemblyReference.cache
+C:\Users\Niko Uremović\source\repos\UVRGTriangulacija\UVRGTriangulacija\obj\Debug\MainWindow.g.cs
+C:\Users\Niko Uremović\source\repos\UVRGTriangulacija\UVRGTriangulacija\obj\Debug\App.g.cs
+C:\Users\Niko Uremović\source\repos\UVRGTriangulacija\UVRGTriangulacija\obj\Debug\UVRGTriangulacija_MarkupCompile.cache
+C:\Users\Niko Uremović\source\repos\UVRGTriangulacija\UVRGTriangulacija\obj\Debug\UVRGTriangulacija_MarkupCompile.lref
+C:\Users\Niko Uremović\source\repos\UVRGTriangulacija\UVRGTriangulacija\obj\Debug\MainWindow.baml
+C:\Users\Niko Uremović\source\repos\UVRGTriangulacija\UVRGTriangulacija\obj\Debug\UVRGTriangulacija.g.resources
+C:\Users\Niko Uremović\source\repos\UVRGTriangulacija\UVRGTriangulacija\obj\Debug\UVRGTriangulacija.Properties.Resources.resources
+C:\Users\Niko Uremović\source\repos\UVRGTriangulacija\UVRGTriangulacija\obj\Debug\UVRGTriangulacija.csproj.GenerateResource.cache
+C:\Users\Niko Uremović\source\repos\UVRGTriangulacija\UVRGTriangulacija\obj\Debug\UVRGTriangulacija.csproj.CoreCompileInputs.cache
+C:\Users\Niko Uremović\source\repos\UVRGTriangulacija\UVRGTriangulacija\obj\Debug\UVRGTriangulacija.exe
+C:\Users\Niko Uremović\source\repos\UVRGTriangulacija\UVRGTriangulacija\obj\Debug\UVRGTriangulacija.pdb

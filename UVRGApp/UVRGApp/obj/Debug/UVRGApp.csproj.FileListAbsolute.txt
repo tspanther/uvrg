@@ -1,0 +1,15 @@
+C:\Users\Niko Uremović\source\repos\UVRGApp\UVRGApp\bin\Debug\UVRGApp.exe.config
+C:\Users\Niko Uremović\source\repos\UVRGApp\UVRGApp\bin\Debug\UVRGApp.exe
+C:\Users\Niko Uremović\source\repos\UVRGApp\UVRGApp\bin\Debug\UVRGApp.pdb
+C:\Users\Niko Uremović\source\repos\UVRGApp\UVRGApp\obj\Debug\UVRGApp.csprojAssemblyReference.cache
+C:\Users\Niko Uremović\source\repos\UVRGApp\UVRGApp\obj\Debug\MainWindow.g.cs
+C:\Users\Niko Uremović\source\repos\UVRGApp\UVRGApp\obj\Debug\App.g.cs
+C:\Users\Niko Uremović\source\repos\UVRGApp\UVRGApp\obj\Debug\UVRGApp_MarkupCompile.cache
+C:\Users\Niko Uremović\source\repos\UVRGApp\UVRGApp\obj\Debug\UVRGApp_MarkupCompile.lref
+C:\Users\Niko Uremović\source\repos\UVRGApp\UVRGApp\obj\Debug\MainWindow.baml
+C:\Users\Niko Uremović\source\repos\UVRGApp\UVRGApp\obj\Debug\UVRGApp.g.resources
+C:\Users\Niko Uremović\source\repos\UVRGApp\UVRGApp\obj\Debug\UVRGApp.Properties.Resources.resources
+C:\Users\Niko Uremović\source\repos\UVRGApp\UVRGApp\obj\Debug\UVRGApp.csproj.GenerateResource.cache
+C:\Users\Niko Uremović\source\repos\UVRGApp\UVRGApp\obj\Debug\UVRGApp.csproj.CoreCompileInputs.cache
+C:\Users\Niko Uremović\source\repos\UVRGApp\UVRGApp\obj\Debug\UVRGApp.exe
+C:\Users\Niko Uremović\source\repos\UVRGApp\UVRGApp\obj\Debug\UVRGApp.pdb

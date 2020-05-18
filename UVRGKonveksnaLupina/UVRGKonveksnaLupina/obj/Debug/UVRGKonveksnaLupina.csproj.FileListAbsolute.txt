@@ -1,0 +1,15 @@
+C:\Users\Niko Uremović\source\repos\UVRGKonveksnaLupina\UVRGKonveksnaLupina\bin\Debug\UVRGKonveksnaLupina.exe.config
+C:\Users\Niko Uremović\source\repos\UVRGKonveksnaLupina\UVRGKonveksnaLupina\bin\Debug\UVRGKonveksnaLupina.exe
+C:\Users\Niko Uremović\source\repos\UVRGKonveksnaLupina\UVRGKonveksnaLupina\bin\Debug\UVRGKonveksnaLupina.pdb
+C:\Users\Niko Uremović\source\repos\UVRGKonveksnaLupina\UVRGKonveksnaLupina\obj\Debug\UVRGKonveksnaLupina.csprojAssemblyReference.cache
+C:\Users\Niko Uremović\source\repos\UVRGKonveksnaLupina\UVRGKonveksnaLupina\obj\Debug\MainWindow.g.cs
+C:\Users\Niko Uremović\source\repos\UVRGKonveksnaLupina\UVRGKonveksnaLupina\obj\Debug\App.g.cs
+C:\Users\Niko Uremović\source\repos\UVRGKonveksnaLupina\UVRGKonveksnaLupina\obj\Debug\UVRGKonveksnaLupina_MarkupCompile.cache
+C:\Users\Niko Uremović\source\repos\UVRGKonveksnaLupina\UVRGKonveksnaLupina\obj\Debug\UVRGKonveksnaLupina_MarkupCompile.lref
+C:\Users\Niko Uremović\source\repos\UVRGKonveksnaLupina\UVRGKonveksnaLupina\obj\Debug\MainWindow.baml
+C:\Users\Niko Uremović\source\repos\UVRGKonveksnaLupina\UVRGKonveksnaLupina\obj\Debug\UVRGKonveksnaLupina.g.resources
+C:\Users\Niko Uremović\source\repos\UVRGKonveksnaLupina\UVRGKonveksnaLupina\obj\Debug\UVRGKonveksnaLupina.Properties.Resources.resources
+C:\Users\Niko Uremović\source\repos\UVRGKonveksnaLupina\UVRGKonveksnaLupina\obj\Debug\UVRGKonveksnaLupina.csproj.GenerateResource.cache
+C:\Users\Niko Uremović\source\repos\UVRGKonveksnaLupina\UVRGKonveksnaLupina\obj\Debug\UVRGKonveksnaLupina.csproj.CoreCompileInputs.cache
+C:\Users\Niko Uremović\source\repos\UVRGKonveksnaLupina\UVRGKonveksnaLupina\obj\Debug\UVRGKonveksnaLupina.exe
+C:\Users\Niko Uremović\source\repos\UVRGKonveksnaLupina\UVRGKonveksnaLupina\obj\Debug\UVRGKonveksnaLupina.pdb
